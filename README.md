@@ -1,5 +1,5 @@
 ## Installation
 Install package using composer
 ```sh
-composer require emico/magento1-tweakwise-export
+composer require tweakwise/magento1-tweakwise-export
 ```
